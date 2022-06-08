@@ -1,4 +1,4 @@
-* Yao Xu CMPEN472 Homework 1
+* Yao Xu Homework 1
 * Register use: A accumulator: character data to be filled
 *               B accumulator: counter, number of filled locations
 *               X register:    memory address pointer

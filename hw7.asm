@@ -2,8 +2,7 @@
 *
 * Title:          SCI Serial Port and 7-segment Display at PORTB
 *
-* Objective:      CMPEN 472 Homework 7, in-class-room demonstration
-*                 program
+* Objective:     Homework 7
 *
 * Revision:       V3.2  for CodeWarrior 5.2 Debugger Simulation
 *

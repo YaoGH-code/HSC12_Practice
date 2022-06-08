@@ -1,5 +1,5 @@
 ***********************************************************************
-* Title: Yao Xu CMPEN472 Homework 3 - LED Light ON/OFF and Switch ON/OFF
+* Title: Yao Xu Homework 3 - LED Light ON/OFF and Switch ON/OFF
 * 
 * Date:              Sep. 13
 *

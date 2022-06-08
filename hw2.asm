@@ -1,5 +1,5 @@
 ***********************************************************************
-* Title: Yao Xu CMPEN472 Homework 2 - LED Light blinking
+* Title: Yao Xu Homework 2 - LED Light blinking
 * 
 * Date:              Sep. 8
 *

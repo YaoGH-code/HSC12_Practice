@@ -1,10 +1,7 @@
 ;*******************************************************
-;* CMPEN 472, 2021 Fall 
 ;* Homework 9: Timer Interrupt Sample Program, 
 ;* MC9S12C128 Program (set to MC9S12C32 for Simulation/Debug)
 ;* CodeWarrior Simulator/Debug edition, not for CSM-12C128 board
-;* Nov.  01, 2021 Kyusun Choi
-;* Nov.  05, 2021 Kyusun Choi
 ;* 
 ;* This program is a 1024 data transfer program running on the 
 ;*   CodeWarrior Debugger/Simulator as follows: 

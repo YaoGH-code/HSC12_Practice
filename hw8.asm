@@ -2,7 +2,7 @@
 *
 * Title:          Calculator and clock
 *
-* Objective:      CMPEN 472 Homework 8
+* Objective:     CMPEN 472 Homework 8
 *
 * Revision:       V3.2  for CodeWarrior 5.2 Debugger Simulation
 *
